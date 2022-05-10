@@ -8,4 +8,4 @@ Malaria is one of the deadliest diseases across the globe. This is caused by the
 ![Screenshot 2022-05-10 204437](https://user-images.githubusercontent.com/58251849/167700980-77f0d788-54ba-4089-a09a-07304574add7.png)
 
 for this simple project we used :python ,flask ,mysql , google cloud platform ,bash .
-we choose specific gene which is 
+we choose specific gene which is PFGARP
